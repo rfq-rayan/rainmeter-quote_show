@@ -1,0 +1,10 @@
+-- MySentences.lua.example
+-- Copy this file to MySentences.lua and add your own motivational sentences!
+-- The file follows Lua table syntax - each sentence is a string in quotes, separated by commas.
+
+return {
+    -- Study & Focus
+    "Every hour of study brings you closer to your dreams.",
+    -- Add your own sentences below!
+    -- "Your custom quote here.",
+}
